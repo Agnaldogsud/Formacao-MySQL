@@ -4,7 +4,7 @@ Nesse repositório irei colocar algumas coisas que aprendi na formação de MYSQ
 
 Nessa formação aprendi sobre:
 
-### Consultas SQL
-### Comandos DML SQL
-### Procedures SQL
-### Administração do MySQL
+#### Consultas SQL
+#### Comandos DML SQL
+#### Procedures SQL
+#### Administração do MySQL
