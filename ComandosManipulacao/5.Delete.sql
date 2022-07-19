@@ -1,0 +1,18 @@
+use vendas_sucos
+
+select * from produtos
+
+delete from produtos where codigo = "1040107"
+
+
+SELECT A.NUMERO FROM NOTAS A
+INNER JOIN CLIENTES B ON A.CPF = B.CPF
+WHERE B.IDADE <= 18
+
+
+DELETE A FROM NOTAS A
+INNER JOIN CLIENTES B ON A.CPF = B.CPF
+WHERE B.IDADE <= 18
+
+DELETE FROM ITENS_NOTAS;
+DELETE FROM NOTAS;
